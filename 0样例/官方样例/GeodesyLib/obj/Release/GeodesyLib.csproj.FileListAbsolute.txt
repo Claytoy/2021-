@@ -1,0 +1,5 @@
+D:\PGM\PGM2017\BookCode\GeodesyLib\bin\Release\GeodesyLib.dll
+D:\PGM\PGM2017\BookCode\GeodesyLib\bin\Release\GeodesyLib.pdb
+D:\PGM\PGM2017\BookCode\GeodesyLib\obj\Release\GeodesyLib.dll
+D:\PGM\PGM2017\BookCode\GeodesyLib\obj\Release\GeodesyLib.pdb
+D:\PGM\PGM2017\BookCode\GeodesyLib\obj\Release\GeodesyLib.csprojResolveAssemblyReference.cache

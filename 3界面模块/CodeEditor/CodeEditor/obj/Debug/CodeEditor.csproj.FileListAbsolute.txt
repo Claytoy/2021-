@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\CodeEditor\CodeEditor\bin\Debug\CodeEditor.exe.config
+C:\Users\Administrator\source\repos\CodeEditor\CodeEditor\bin\Debug\CodeEditor.exe
+C:\Users\Administrator\source\repos\CodeEditor\CodeEditor\bin\Debug\CodeEditor.pdb
+C:\Users\Administrator\source\repos\CodeEditor\CodeEditor\obj\Debug\CodeEditor.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\CodeEditor\CodeEditor\obj\Debug\CodeEditor.Properties.Resources.resources
+C:\Users\Administrator\source\repos\CodeEditor\CodeEditor\obj\Debug\CodeEditor.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\CodeEditor\CodeEditor\obj\Debug\CodeEditor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CodeEditor\CodeEditor\obj\Debug\CodeEditor.exe
+C:\Users\Administrator\source\repos\CodeEditor\CodeEditor\obj\Debug\CodeEditor.pdb
+C:\Users\Administrator\source\repos\CodeEditor\CodeEditor\obj\Debug\CodeEditor.MainForm.resources
+E:\0CodeofVS2019\2022\CSharp\CodeEditor\CodeEditor\bin\Debug\CodeEditor.exe.config
+E:\0CodeofVS2019\2022\CSharp\CodeEditor\CodeEditor\obj\Debug\CodeEditor.exe
+E:\0CodeofVS2019\2022\CSharp\CodeEditor\CodeEditor\obj\Debug\CodeEditor.pdb

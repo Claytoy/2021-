@@ -1,0 +1,9 @@
+E:\0CodeofVS2019\2022\CSharp\6题目\模块\datagrid\datagrid\bin\Debug\datagrid.exe.config
+E:\0CodeofVS2019\2022\CSharp\6题目\模块\datagrid\datagrid\bin\Debug\datagrid.exe
+E:\0CodeofVS2019\2022\CSharp\6题目\模块\datagrid\datagrid\bin\Debug\datagrid.pdb
+E:\0CodeofVS2019\2022\CSharp\6题目\模块\datagrid\datagrid\obj\Debug\datagrid.csprojResolveAssemblyReference.cache
+E:\0CodeofVS2019\2022\CSharp\6题目\模块\datagrid\datagrid\obj\Debug\datagrid.Form1.resources
+E:\0CodeofVS2019\2022\CSharp\6题目\模块\datagrid\datagrid\obj\Debug\datagrid.Properties.Resources.resources
+E:\0CodeofVS2019\2022\CSharp\6题目\模块\datagrid\datagrid\obj\Debug\datagrid.csproj.GenerateResource.Cache
+E:\0CodeofVS2019\2022\CSharp\6题目\模块\datagrid\datagrid\obj\Debug\datagrid.exe
+E:\0CodeofVS2019\2022\CSharp\6题目\模块\datagrid\datagrid\obj\Debug\datagrid.pdb

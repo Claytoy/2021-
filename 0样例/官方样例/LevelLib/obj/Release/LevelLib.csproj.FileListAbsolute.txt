@@ -1,0 +1,6 @@
+D:\PGM\PGM2017\BookCode\LevelLib\obj\Release\LevelLib.csprojResolveAssemblyReference.cache
+D:\PGM\PGM2017\BookCode\LevelLib\bin\Release\LevelLib.dll
+D:\PGM\PGM2017\BookCode\LevelLib\bin\Release\LevelLib.pdb
+D:\PGM\PGM2017\BookCode\LevelLib\bin\Release\netchartdir.dll
+D:\PGM\PGM2017\BookCode\LevelLib\obj\Release\LevelLib.dll
+D:\PGM\PGM2017\BookCode\LevelLib\obj\Release\LevelLib.pdb

@@ -1,0 +1,6 @@
+E:\CodeofVS2019\2022\CSharp\综合\综合\bin\Debug\综合.exe.config
+E:\CodeofVS2019\2022\CSharp\综合\综合\bin\Debug\综合.exe
+E:\CodeofVS2019\2022\CSharp\综合\综合\bin\Debug\综合.pdb
+E:\CodeofVS2019\2022\CSharp\综合\综合\obj\Debug\综合.csprojResolveAssemblyReference.cache
+E:\CodeofVS2019\2022\CSharp\综合\综合\obj\Debug\综合.exe
+E:\CodeofVS2019\2022\CSharp\综合\综合\obj\Debug\综合.pdb

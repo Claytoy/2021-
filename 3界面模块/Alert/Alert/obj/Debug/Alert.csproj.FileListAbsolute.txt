@@ -1,0 +1,11 @@
+E:\0CodeofVS2019\2022\CSharp\6题目\模块\Alert\Alert\bin\Debug\Alert.exe.config
+E:\0CodeofVS2019\2022\CSharp\6题目\模块\Alert\Alert\obj\Debug\Alert.csprojResolveAssemblyReference.cache
+E:\0CodeofVS2019\2022\CSharp\6题目\模块\Alert\Alert\obj\Debug\Alert.Alert.resources
+E:\0CodeofVS2019\2022\CSharp\6题目\模块\Alert\Alert\obj\Debug\Alert.Form1.resources
+E:\0CodeofVS2019\2022\CSharp\6题目\模块\Alert\Alert\obj\Debug\Alert.Properties.Resources.resources
+E:\0CodeofVS2019\2022\CSharp\6题目\模块\Alert\Alert\obj\Debug\Alert.ResourcePIC.resources
+E:\0CodeofVS2019\2022\CSharp\6题目\模块\Alert\Alert\obj\Debug\Alert.csproj.GenerateResource.Cache
+E:\0CodeofVS2019\2022\CSharp\6题目\模块\Alert\Alert\bin\Debug\Alert.exe
+E:\0CodeofVS2019\2022\CSharp\6题目\模块\Alert\Alert\bin\Debug\Alert.pdb
+E:\0CodeofVS2019\2022\CSharp\6题目\模块\Alert\Alert\obj\Debug\Alert.exe
+E:\0CodeofVS2019\2022\CSharp\6题目\模块\Alert\Alert\obj\Debug\Alert.pdb
